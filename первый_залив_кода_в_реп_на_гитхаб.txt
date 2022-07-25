@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "First commit"
+git remote -v
+git remote add origin ссылка на удаленный репозиторий
+git push origin master

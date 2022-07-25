@@ -1,0 +1,3 @@
+git commit -m "My head line" -m "My content line."
+
+https://ask-dev.ru/info/15733/add-line-break-to-git-commit-m-from-command-line
